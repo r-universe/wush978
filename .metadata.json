@@ -1,0 +1,14 @@
+[
+  {
+    "package": "FeatureHashing",
+    "oncran": true
+  },
+  {
+    "package": "Rcereal",
+    "oncran": true
+  },
+  {
+    "package": "supc",
+    "oncran": true
+  }
+]
