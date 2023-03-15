@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "Rcereal",
+    "package": "supc",
     "oncran": true
   },
   {
-    "package": "supc",
+    "package": "Rcereal",
     "oncran": true
   }
 ]
