@@ -8,13 +8,13 @@
 	url = https://github.com/wush978/featurehashing
 	shallow = true
 	registered = true
-[submodule "supc"]
-	path = supc
-	url = https://github.com/wush978/supc
-	shallow = true
-	registered = true
 [submodule "Rcereal"]
 	path = Rcereal
 	url = https://github.com/wush978/rcereal
+	shallow = true
+	registered = true
+[submodule "supc"]
+	path = supc
+	url = https://github.com/wush978/supc
 	shallow = true
 	registered = true
