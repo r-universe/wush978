@@ -8,6 +8,3 @@
 [submodule "Rcereal"]
 	path = Rcereal
 	url = https://github.com/wush978/rcereal
-[submodule "supc"]
-	path = supc
-	url = https://github.com/wush978/supc
